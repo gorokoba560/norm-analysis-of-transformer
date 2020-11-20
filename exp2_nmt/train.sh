@@ -12,7 +12,7 @@ cut -f1 $BPE_DIR/en.vocab | tail -n +4 | sed "s/$/ 100/g" > $DATA_DIR/en.vocab
 
 # fairseq preprocess
 fairseq-preprocess --source-lang de --target-lang en \
-    --trainpref $DATS_DIR/train.bpe \
+    --trainpref $DATA_DIR/train.bpe \
     --validpref $DATA_DIR/valid.bpe \
     --testpref $DATA_DIR/valid.bpe \
     --srcdict $DATA_DIR/de.vocab \
