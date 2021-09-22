@@ -1,16 +1,9 @@
 # Norm-based Analysis of Transformer
 
 Code for 
-* [Kobayashi+'20 Attention is Not Only a Weight: Analyzing Transformers with Vector Norms (EMNLP 2020)](https://www.aclweb.org/anthology/2020.emnlp-main.574/)  
-* [Kobayashi+'21 Incorporating Residual and Normalization Layers into Analysis of Masked Language Models (EMNLP 2021)](https://arxiv.org/abs/2109.07152)  
+* [Kobayashi+'20 Attention is Not Only a Weight: Analyzing Transformers with Vector Norms (EMNLP 2020)](https://www.aclweb.org/anthology/2020.emnlp-main.574/) → Check [emnlp2020](emnlp2020).  
+* [Kobayashi+'21 Incorporating Residual and Normalization Layers into Analysis of Masked Language Models (EMNLP 2021)](https://arxiv.org/abs/2109.07152) → Will be published soon!!  
 
-
-## Kobayashi+'20 Attention is Not Only a Weight: Analyzing Transformers with Vector Norms (EMN    LP 2020)
-Check [emnlp2020](emnlp2020).
-
-
-## Kobayashi+'21 Incorporating Residual and Normalization Layers into Analysis of Masked Langu    age Models (EMNLP 2021)
-Will be published soon!
 
 
 ## Citation
@@ -30,7 +23,7 @@ If you use our code for academic work, please cite:
    author = {Kobayashi, Goro and Kuribayashi, Tatsuki and Yokoi, Sho and Inui, Kentaro},
    booktitle = {Proceedings of the 2021 Conference on Empirical Methods in Natural Language Proceeding (EMNLP)},
    year = "2021",
-   url = "https://arxiv.org/abs/2109.07152"
-   pages = "to appear"
+   url = "https://arxiv.org/abs/2109.07152",
+   pages = "to appear",
 }
 ```
